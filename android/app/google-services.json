@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "88189973012",
+    "project_id": "ration-distribution-syst-3b88e",
+    "storage_bucket": "ration-distribution-syst-3b88e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88189973012:android:a5d2c0c703fc70b65bad01",
+        "android_client_info": {
+          "package_name": "com.example.digitalrationsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88189973012-o1h8mt0jbbqaukh4e5kh71etmvlvogfe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGDGjmJ8iwgl99uwDdBRjundvj8D5K8pg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "88189973012-o1h8mt0jbbqaukh4e5kh71etmvlvogfe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
