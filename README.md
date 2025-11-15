@@ -76,7 +76,7 @@ Client
 
 Any Android mobile device
 
-🔧 Key Features
+# 🔧 Key Features
 👤 User Features
 
 View allocated ration stock
@@ -142,7 +142,7 @@ Add google-services.json inside:
 flutter run
 ```
 
-📘 Conclusion
+# 📘 Conclusion
 
 The Digital Ration Distribution System is a complete solution to digitize and modernize ration distribution.
 It enhances transparency, reduces corruption, improves user convenience, and ensures fair access for all beneficiaries.
